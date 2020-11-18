@@ -1,0 +1,7 @@
+C:\Users\Leon\source\repos\pr0loader\pr0loader\bin\Release\pr0loader.exe.config
+C:\Users\Leon\source\repos\pr0loader\pr0loader\bin\Release\pr0loader.exe
+C:\Users\Leon\source\repos\pr0loader\pr0loader\bin\Release\pr0loader.pdb
+C:\Users\Leon\source\repos\pr0loader\pr0loader\obj\Release\pr0loader.csprojAssemblyReference.cache
+C:\Users\Leon\source\repos\pr0loader\pr0loader\obj\Release\pr0loader.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\pr0loader\pr0loader\obj\Release\pr0loader.exe
+C:\Users\Leon\source\repos\pr0loader\pr0loader\obj\Release\pr0loader.pdb
